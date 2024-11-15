@@ -1,6 +1,6 @@
 # Undergraduate-Study-druring-GDUT
 A resource repository for undergraduate courses in artificial intelligence, integrated circuits, and computer science. I will update my study materials during my spare time
-
+广东工业大学本科期间人工智能、集成电路学习资料
 
 
 ## Artificial intelligence series（人工智能系列课程）
