@@ -11,7 +11,9 @@ A resource repository for undergraduate courses in artificial intelligence, inte
 
 #1  Machine Learning Specialization by Andrew Ng（吴恩达课程）[Course 1, Week 1, Lesson 1\]](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
 
-#2  Generative Models Specialization by Hung-yi Lee（李宏毅课程） [【機器學習 2023】(生成式 AI) - YouTube](https://www.youtube.com/playlist?list=PLJV_el3uVTsOePyfmkfivYZ7Rqr2nMk3W)
+#2  Machine Learning Specialization by Hung-yi Lee（李宏毅课程/主流模型） [【機器學習 2021】(生成式 AI) - YouTube](https://youtu.be/Ye018rCVvOo?si=8zPdPEPLqTe4gHqC)
+
+#3  Generative Models Specialization by Hung-yi Lee（李宏毅课程） [【機器學習 2023】(生成式 AI) - YouTube](https://www.youtube.com/playlist?list=PLJV_el3uVTsOePyfmkfivYZ7Rqr2nMk3W)
 
 ### Classic AI papers reading（经典论文精读）
 
